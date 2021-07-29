@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-info{
+    padding-left: 100px;
+}
+.header-info p{
+    color: #E0E0E0;
+    font-weight: 300;
+}
+
+.header-info h1{
+    color: white;
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.line{
+    border: 1px solid orangered;
+    width: 60px;   
+}
+.img-one{
+    filter: grayscale(100%);
+}
+
+.img-three{
+    filter: grayscale(100%);
+}
+.feature{
+    margin-bottom: 100px;
+}
+.card-img img{
+    height: 310px;
+}
+.client-name{
+    color: #23A6F0;
+}
+.fas{
+    color: #E77C40;
+}
+.far{
+    color: #E77C40;
+}
